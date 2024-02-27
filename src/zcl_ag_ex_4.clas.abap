@@ -17,5 +17,6 @@ CLASS ZCL_AG_EX_4 IMPLEMENTATION.
 
   method PERFORM_UTILITY.
     "utility implementation here
+    "TODO need to implement utility logic as it currently doesn't do anything
   endmethod.
 ENDCLASS.
